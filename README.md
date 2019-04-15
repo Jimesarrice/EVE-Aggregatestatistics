@@ -1,0 +1,4 @@
+# EVE-Aggregatestatistics
+半自动统计EVE军团出勤信息的程式
+带过队的应该能一看就懂
+会SQL语句的就不用我教了吧
